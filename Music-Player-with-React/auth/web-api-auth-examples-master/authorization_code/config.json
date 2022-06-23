@@ -1,0 +1,31 @@
+{
+    "url": "http://localhost:3000",
+    "spotify": {
+        "client_id": "7f7c8882905f41979d063a5ed169a02f",
+        "client_secret": "3173c7b8f6114dc183e5599058d091f1",
+        "redirect_uri": "http://localhost:8888/callback",
+        "scopes": "\\'user-read-private user-read-email\\'",
+        "l": {
+            "country": "BG",
+            "display_name": "s1i0taeqcyg66xtp3ftsc88i1",
+            "email": "alexphone33@gmail.com",
+            "explicit_content": {
+                "filter_enabled": false,
+                "filter_locked": false
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/s1i0taeqcyg66xtp3ftsc88i1"
+            },
+            "followers": { 
+                "href": null, 
+                "total": 1
+            },
+            "href": "https://api.spotify.com/v1/users/s1i0taeqcyg66xtp3ftsc88i1",
+            "id": "s1i0taeqcyg66xtp3ftsc88i1",
+            "images": [],
+            "product": "open",
+            "type": "user",
+            "uri": "spotify:user:s1i0taeqcyg66xtp3ftsc88i1"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "visualizer": {
+        "position": "down",
+        "type": "middle"
+    },
+    "promptUserToDownloadSongs": true,
+    "musicFolderPath": "F:/ALEX/VSC/Music Player/MusicPlayerMobile/assets/music"
+}
